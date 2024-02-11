@@ -2,10 +2,32 @@
 O Glossário web dev é um grande compilado de palavras que podem causar certa estranheza na programação
 
 <ul>
-  <li> <a href="#s"> <b> E </b> </a></li>
-  <li> <a href="#s"> <b> F </b> </a></li>
-  <li> <a href="#s"> <b> P </b> </a></li>
-  <li> <a href="#s"> <b> S </b> </a></li>
+<li><a href="#a"><b>A</b></a></li>
+<li><a href="#b"><b>B</b></a></li>
+<li><a href="#c"><b>C</b></a></li>
+<li><a href="#d"><b>D</b></a></li>
+<li><a href="#e"><b>E</b></a></li>
+<li><a href="#f"><b>F</b></a></li>
+<li><a href="#g"><b>G</b></a></li>
+<li><a href="#h"><b>H</b></a></li>
+<li><a href="#i"><b>I</b></a></li>
+<li><a href="#j"><b>J</b></a></li>
+<li><a href="#k"><b>K</b></a></li>
+<li><a href="#l"><b>L</b></a></li>
+<li><a href="#m"><b>M</b></a></li>
+<li><a href="#n"><b>N</b></a></li>
+<li><a href="#o"><b>O</b></a></li>
+<li><a href="#p"><b>P</b></a></li>
+<li><a href="#q"><b>Q</b></a></li>
+<li><a href="#r"><b>R</b></a></li>
+<li><a href="#s"><b>S</b></a></li>
+<li><a href="#t"><b>T</b></a></li>
+<li><a href="#u"><b>U</b></a></li>
+<li><a href="#v"><b>V</b></a></li>
+<li><a href="#w"><b>W</b></a></li>
+<li><a href="#x"><b>X</b></a></li>
+<li><a href="#y"><b>Y</b></a></li>
+<li><a href="#z"><b>Z</b></a></li>
 </ul>
 
 
