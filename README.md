@@ -1,8 +1,8 @@
 # Glossário Web Dev
 O Glossário web dev é um grande compilado de palavras que podem causar certa estranheza na programação
-
-<ul style="display: flex; flex-direction: row; justify-content: center">
-  <ul>
+<table>
+  <tr>
+    <td valign="top"><ul>
     <li><a href="#a"><b>A</b></a></li>
     <li><a href="#b"><b>B</b></a></li>
     <li><a href="#c"><b>C</b></a></li>
@@ -13,8 +13,8 @@ O Glossário web dev é um grande compilado de palavras que podem causar certa e
     <li><a href="#h"><b>H</b></a></li>
     <li><a href="#i"><b>I</b></a></li>
   </ul>
-
-  <ul>
+</td>
+    <td valign="top"><ul>
     <li><a href="#j"><b>J</b></a></li>
     <li><a href="#k"><b>K</b></a></li>
     <li><a href="#l"><b>L</b></a></li>
@@ -23,7 +23,11 @@ O Glossário web dev é um grande compilado de palavras que podem causar certa e
     <li><a href="#o"><b>O</b></a></li>
     <li><a href="#p"><b>P</b></a></li>
     <li><a href="#q"><b>Q</b></a></li>
-  </ul>
+  </ul></td>
+    
+</td>
+    <td valign="top">
+  
   <ul>
     <li><a href="#r"><b>R</b></a></li>
     <li><a href="#s"><b>S</b></a></li>
@@ -34,8 +38,10 @@ O Glossário web dev é um grande compilado de palavras que podem causar certa e
     <li><a href="#x"><b>X</b></a></li>
     <li><a href="#y"><b>Y</b></a></li>
     <li><a href="#z"><b>Z</b></a></li>
-  </ul>
-</ul>
+  </ul></td>
+  
+  </tr>
+</table>
 
 
 ## E
