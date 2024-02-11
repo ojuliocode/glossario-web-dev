@@ -2,10 +2,16 @@
 O Glossário web dev é um grande compilado de palavras que podem causar certa estranheza na programação
 
 <ul>
+  <li> <a href="#s"> <b> E </b> </a></li>
   <li> <a href="#s"> <b> F </b> </a></li>
   <li> <a href="#s"> <b> P </b> </a></li>
   <li> <a href="#s"> <b> S </b> </a></li>
 </ul>
+
+
+## E
+- <b> Entrada: </b> Quando referenciamos a entrada de dados, estamos falando de coisas que um usuário irá fazer. Todo usuário utiliza algum equipamento (teclado, mouse) para realizar a entrada. Por exemplo: ao digitar um texto no Facebook Messenger, pode-se dizer que tal texto é uma entrada de dados
+  - Exemplo de uso: Ele realizou a  <b> entrada </b> de dados na plataforma
 
 ## F
 - <b> Float: </b> Float quando sendo referenciado na programação refere-se a um tipo de variável com ponto flutuante. Por isso tem a nomeação "float" (flutuante)
