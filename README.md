@@ -59,4 +59,8 @@ O Glossário web dev é um grande compilado de palavras que podem causar certa e
 ## S
 - <b> Sintaxe: </b> Regras e normas que regulam a estrutura e a forma como um programa deve ser escrita
   - Exemplo de uso: A  <b> sintaxe </b> da declaração de uma variável é composta pelo tipo da variável seguida do nome da variável
+ 
+    
+- <b> Saída: </b> A saída de dados é uma forma de nos comunicarmos com o usuário. Todo programa que criamos, queremos que haja uma saída. A saída de dados pode ser apresentada em um terminal, em uma interface gráfica, em um display, ou qualquer dispositivo que tenha a capacidade de transformar dados em informações para o usuário.
+  - Exemplo de uso: O programa que calcula a raiz quadrada de 4 teve como <b> saída </b> o número 2
 
