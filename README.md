@@ -43,24 +43,27 @@ O Glossário web dev é um grande compilado de palavras que podem causar certa e
   </tr>
 </table>
 
+## C
+- <b> Compilar: </b> Compilar um programa pode ser visto como a mesma coisa do que executar um programa. O programa, escrito em uma certa linguagem, é convertido em uma linguagem que o computador entende, e logo após é executado.
+  - Exemplo de uso: O programa que soma dois números foi <b> compilado </b> em linguagem C.
 
 ## E
 - <b> Entrada: </b> Quando referenciamos a entrada de dados, estamos falando de coisas que um usuário irá fazer. Todo usuário utiliza algum equipamento (teclado, mouse) para realizar a entrada. Por exemplo: ao digitar um texto no Facebook Messenger, pode-se dizer que tal texto é uma entrada de dados
-  - Exemplo de uso: Ele realizou a  <b> entrada </b> de dados na plataforma
+  - Exemplo de uso: Ele realizou a  <b> entrada </b> de dados na plataforma.
 
 ## F
-- <b> Float: </b> Float quando sendo referenciado na programação refere-se a um tipo de variável com ponto flutuante. Por isso tem a nomeação "float" (flutuante)
-  - Exemplo de uso: O tipo dessa variável é  <b> float </b> pois vou utilizar números com vírgulas
+- <b> Float: </b> Float quando sendo referenciado na programação refere-se a um tipo de variável com ponto flutuante. Por isso tem a nomeação "float" (flutuante).
+  - Exemplo de uso: O tipo dessa variável é  <b> float </b> pois vou utilizar números com vírgulas.
 
 ## P
-- <b> Ponto flutuante: </b> O ponto flutuante é nada mais do que um número com vírgulas. Trata-se de um número que apresenta tanto parte inteira, quanto parte decimal
-  - Exemplo de uso: O número 12.9 possui <b> ponto flutuante </b> pois é um número que possui casas decimais
+- <b> Ponto flutuante: </b> O ponto flutuante é nada mais do que um número com vírgulas. Trata-se de um número que apresenta tanto parte inteira, quanto parte decimal.
+  - Exemplo de uso: O número 12.9 possui <b> ponto flutuante </b> pois é um número que possui casas decimais.
 
 ## S
-- <b> Sintaxe: </b> Regras e normas que regulam a estrutura e a forma como um programa deve ser escrita
-  - Exemplo de uso: A  <b> sintaxe </b> da declaração de uma variável é composta pelo tipo da variável seguida do nome da variável
+- <b> Sintaxe: </b> Regras e normas que regulam a estrutura e a forma como um programa deve ser escrita.
+  - Exemplo de uso: A  <b> sintaxe </b> da declaração de uma variável é composta pelo tipo da variável seguida do nome da variável.
  
     
 - <b> Saída: </b> A saída de dados é uma forma de nos comunicarmos com o usuário. Todo programa que criamos, queremos que haja uma saída. A saída de dados pode ser apresentada em um terminal, em uma interface gráfica, em um display, ou qualquer dispositivo que tenha a capacidade de transformar dados em informações para o usuário.
-  - Exemplo de uso: O programa que calcula a raiz quadrada de 4 teve como <b> saída </b> o número 2
+  - Exemplo de uso: O programa que calcula a raiz quadrada de 4 teve como <b> saída </b> o número 2.
 
